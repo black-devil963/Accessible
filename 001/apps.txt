@@ -8,6 +8,7 @@
 'Calculator',
 'Calendar',
 'childDefender',
+'Caller',
 'Clock',
 'Confirmtkt',
 'Digi Yatra',
