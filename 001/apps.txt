@@ -48,7 +48,6 @@
 'Photos',
 'PNG MITRA',
 'Reminder',
-'Roblox',
 'Samsung Kids',
 'Samsung on-device Resource English (India)',
 'Samsung on-device Resource English (United States)',
