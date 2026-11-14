@@ -1,5 +1,4 @@
 'Amazon',
-'Among Us',
 'Android System Key Verifier',
 'Android System SafetyCore',
 'Aramya',
